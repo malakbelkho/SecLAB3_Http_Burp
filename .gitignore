@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Burp project/state files
+*.burp
+*.burp2
+*.state
+
+# Certificates / keys
+*.der
+*.cer
+*.crt
+*.p12
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
